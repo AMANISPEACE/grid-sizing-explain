@@ -3,22 +3,23 @@
 This is the website that I have made to showcase how frid Sizing Actually works.
 ![image](https://github.com/AMANISPEACE/grid-sizing-explain/assets/97402085/0dd629e9-38c5-497b-b409-1a65e3e5ca88)
 
+#Try Now :
+https://amanispeace.github.io/grid-sizing-explain/
+
 Grid Sizing is the important concept while learning CSS.
 
 # CSS Grid Sizing Explained
 
 Welcome to the **CSS Grid Sizing** project! This project aims to provide a comprehensive explanation of grid sizing in CSS, including practical examples and usage tips.
 
-![CSS Grid Layout](https://example.com/your-image-link.png)
+![CSS Grid Layout](![image](https://github.com/AMANISPEACE/grid-sizing-explain/assets/97402085/461ccd78-913f-46fb-9b77-13598feacc0a))
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [What is CSS Grid Sizing?](#what-is-css-grid-sizing)
 - [How to Use CSS Grid](#how-to-use-css-grid)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
