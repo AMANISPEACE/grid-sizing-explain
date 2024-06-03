@@ -12,7 +12,7 @@ Grid Sizing is the important concept while learning CSS.
 
 Welcome to the **CSS Grid Sizing** project! This project aims to provide a comprehensive explanation of grid sizing in CSS, including practical examples and usage tips.
 
-![CSS Grid Layout](![image](https://github.com/AMANISPEACE/grid-sizing-explain/assets/97402085/461ccd78-913f-46fb-9b77-13598feacc0a))
+![CSS Grid Layout](https://github.com/AMANISPEACE/grid-sizing-explain/assets/97402085/461ccd78-913f-46fb-9b77-13598feacc0a)
 
 ## Table of Contents
 
