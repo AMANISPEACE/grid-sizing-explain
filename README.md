@@ -83,5 +83,8 @@ To use CSS Grid, you need to define a container as a grid using the `display: gr
     </div>
 </body>
 </html>
+```
+
+### There is the link of the practice excercise also in the end.
 
 
