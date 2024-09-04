@@ -86,6 +86,7 @@ To use CSS Grid, you need to define a container as a grid using the `display: gr
 ```
 
 ### There is the link of the practice excercise also in the end.
-Click on the test part to test your skills on grid and ans the Quiz that I have put there.
+Click on the test part to test your skills on grid and ans the Quiz that I have put there. Go and check your Grid Knowloedge.
+
 
 
